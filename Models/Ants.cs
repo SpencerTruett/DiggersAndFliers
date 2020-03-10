@@ -9,5 +9,6 @@ namespace diggersAndFliers
     public string Color { get; set; }
     public string Food { get; set; }
     public bool Crawler { get; set; }
+    public bool Digger { get; set; }
   }
 }
